@@ -1,0 +1,7 @@
+requests
+
+gpt4all
+
+transformers
+
+typer
